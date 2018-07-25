@@ -1,4 +1,4 @@
-# Initial page
+# Data Structures
 
 ## Getting Super Powers
 
