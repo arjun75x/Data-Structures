@@ -20,4 +20,11 @@
   * [Palindrome](linked-lists/palindrome.md)
   * [Intersection](linked-lists/intersection.md)
   * [Loop Detection](linked-lists/loop-detection.md)
+* [Stacks and Queues](stacks-and-queues/README.md)
+  * [Three Stacks](stacks-and-queues/three-stacks.md)
+  * [Stack Min](stacks-and-queues/stack-min.md)
+  * [Set of Stacks](stacks-and-queues/set-of-stacks.md)
+  * [Queue via Stacks](stacks-and-queues/queue-via-stacks.md)
+  * [Sort Stack](stacks-and-queues/sort-stack.md)
+  * [Animal Shelter](stacks-and-queues/animal-shelter.md)
 

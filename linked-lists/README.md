@@ -2,8 +2,9 @@
 
 All Problems related to Linked Lists
 
+Class for Linked List Nodes:
+
 ```python
-# Class for Linked List Nodes
 class Node():
 
     def __init__(self, value = None, next = None):
