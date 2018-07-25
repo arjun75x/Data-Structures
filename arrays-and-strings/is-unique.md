@@ -1,13 +1,9 @@
----
-description: >-
-  Implement and algorithm to determine if a string has all unique characters.
-  What if you cannot use additional data structures? Time complexity: O(n)
----
-
 # Is Unique
 
-{% code-tabs %}
-{% code-tabs-item title="is\_unique.py" %}
+Problem: Implement and algorithm to determine if a string has all unique characters. What if you cannot use additional data structures? 
+
+Time complexity: O\(n\)
+
 ```python
 def is_unique(string):
 
@@ -19,8 +15,4 @@ def is_unique(string):
             return False
     return True
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
-
-
 
