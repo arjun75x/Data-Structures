@@ -11,4 +11,13 @@
   * [Rotate Matrix](arrays-and-strings/rotate-matrix.md)
   * [Zero Matrix](arrays-and-strings/zero-matrix.md)
   * [String Rotation](arrays-and-strings/string-rotation.md)
+* [Linked Lists](linked-lists/README.md)
+  * [Remove Duplicates](linked-lists/remove-duplicates.md)
+  * [Return Kth to last](linked-lists/return-kth-to-last.md)
+  * [Delete Middle Node](linked-lists/delete-middle-node.md)
+  * [Partition](linked-lists/partition.md)
+  * [Sum Lists](linked-lists/sum-lists.md)
+  * [Palindrome](linked-lists/palindrome.md)
+  * [Intersection](linked-lists/intersection.md)
+  * [Loop Detection](linked-lists/loop-detection.md)
 
